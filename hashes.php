@@ -1,4 +1,5 @@
 <?php
+//This is a test
 $str = "hello world";
 echo md5($str) . "<br>";
 echo sha1($str) . "<br>";
