@@ -1,4 +1,6 @@
 <?php
+//This is for the merge conflict
+
 $str = "hello world";
 echo md5($str) . "<br>";
 echo sha1($str) . "<br>";
